@@ -1,0 +1,15 @@
+   0 mkdir /home/animals/
+   1 mkdir /home/animals/dogs/ /home/animals/cats/ /home/animals/fish/
+   2 ls /home/
+   3 tree /home/
+   4 touch /home/animals/dogs/pluto.txt /home/animals/cats/garfield.txt /home/animals/fish/nemo.txt
+   5 touch /tmp/adam.txt
+   6 mkdir /home/humans/
+   7 cp /tmp/adam.txt /home/humans/
+   8 tree /home/
+   9 touch /tmp/evA.txt
+  10 mkdir /opt/
+  11 mv /tmp/evA.txt /opt/eva.txt
+  12 mv /opt/eva.txt /home/humans/
+  13 ls /home/humans/
+  14 history > /tmp/history.txt
